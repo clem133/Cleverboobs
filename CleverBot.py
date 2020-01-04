@@ -35,5 +35,5 @@ def on_message(message):
 
 
 print ('CleverClem Bot Pret!!')
-client.run('clemen.landier3@gmail.com','3690741')
+client.run('mail','mdp')
 
